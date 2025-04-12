@@ -1,0 +1,28 @@
+/*เลื่อนสมูท*/
+html {
+    scroll-behavior: smooth;
+}
+
+/*เลื่อนสมูท*/
+/*swiper*/
+.swiper-pagination {
+    bottom: 0px !important;
+    position: relative;
+    margin-top: 1rem;
+}
+
+.swiper-pagination-bullet {
+    background-color: #d1d5db;
+    opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: #e11d48;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    color: #e11d48;
+}
+
+/*swiper*/
