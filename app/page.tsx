@@ -1,4 +1,3 @@
-import Image from "next/image";
 import FadeUpWhenVisible from "@/compronents/FadeUpWhenVisible";
 import FoodSection from '@/compronents/FoodSection';
 import "../style/style.css"
