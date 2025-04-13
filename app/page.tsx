@@ -14,7 +14,7 @@ const sawarabi = Sawarabi_Mincho({
 
 export default function Home() {
   return (
-    <main className="bg-[#844c22]">
+    <main className="bg-[#844c22] text-white">
       <section id="Home">
         <div className="relative w-full h-screen overflow-hidden">
           {/* Background Image */}
